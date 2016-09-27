@@ -1,0 +1,11 @@
+*#
+*~
+.*~
+.git
+output/*.o
+src/*.*~
+include/*.*~
+run
+replace
+!output
+!Makefile
